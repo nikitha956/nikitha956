@@ -23,15 +23,15 @@ class SaiNikitha:
     cgpa        = 8.03
 
     stack = [
-        "Python", "C", "C++", "Java",
-        "Django", "HTML", "CSS", "JavaScript",
+        "Python", "C", "Java",
+        "HTML", "CSS", "JavaScript",
         "MySQL", "SQL", "OpenCV"
     ]
 
     currently_learning = [
         "Generative AI",
         "Neural Networks & Deep Learning",
-        "AI DevOps & MLOps",
+        "AI DevOps",
         ".NET Full Stack"
     ]
 

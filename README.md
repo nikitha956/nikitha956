@@ -15,7 +15,6 @@
 ```python
 class SaiNikitha:
     name        = "Muthyala Sai Nikitha"
-    location    = "Ballari, Karnataka, India"
     email       = "sainikitha2753@gmail.com"
     github      = "github.com/nikitha"
     degree      = "B.E - Artificial Intelligence & Machine Learning"
